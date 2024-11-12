@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="light">
+    <file>light/light_off.png</file>
+    <file>light/light1.png</file>
+    <file>light/light2.png</file>
+    <file>light/light3.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>HL.png</file>
+  </qresource>
+  <qresource prefix="air">
+    <file>air/air_off.png</file>
+    <file>air/air1.png</file>
+    <file>air/air2.png</file>
+    <file>air/air3.png</file>
+  </qresource>
+  <qresource prefix="fan">
+    <file>fan/fan_off.png</file>
+    <file>fan/fan1.png</file>
+    <file>fan/fan2.png</file>
+    <file>fan/fan3.png</file>
+  </qresource>
+</RCC>
